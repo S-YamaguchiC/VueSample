@@ -19,3 +19,12 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+# 更新の記録
+
+## 1/26 
+ - いじるベースを上げた
+ - webpack-dev-server：なんか脆弱性の問題があって通知が来てるけどちょっと対処できてない
+
+
