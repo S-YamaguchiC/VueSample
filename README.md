@@ -1,7 +1,7 @@
 # spa-sample
 - npm version 6.4.1  
 - node version v10.15.0
-
+- bootstrap-vue 2.0.0
 
 ## Build Setup
 
@@ -27,5 +27,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## 1/26 
  - いじるベースを上げた
  - webpack-dev-server：なんか脆弱性の問題があって通知が来てるけどちょっと対処できてない
-
+ 
+#### 参考文献
+```
+ Vue.js + axios + Vue Routerで作る！シンプルなSPAの作り方
+ https://public-constructor.com/how-to-create-spa-with-vue/#toc5
+```
 
